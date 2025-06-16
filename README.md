@@ -12,7 +12,7 @@
 
 致力于打造全网最佳 Java 学习进阶平台，让你 BAT Code Road 没有信息差。
 
-- **求个Star**：如果觉得 JavaGuide 的内容对你有帮助的话，还请点个免费的 Star，这是对我最大的鼓励，感谢各位一起同行，共勉！Github 地址：[https://github.com/xlcoding/Java2Top](https://github.com/xlcoding/Java2Top) 。
+- **求个Star**：如果觉得 Java2Top 的内容对你有帮助的话，还请点个免费的 Star，这是对我最大的鼓励，感谢各位一起同行，共勉！Github 地址：[https://github.com/xlcoding/Java2Top](https://github.com/xlcoding/Java2Top) 。
 
 ## 👨‍💻关于作者
 
