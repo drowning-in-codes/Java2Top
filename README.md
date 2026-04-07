@@ -1,29 +1,21 @@
 <!-- DOCTOC SKIP -->
 
-# Java2Top |「Java学习+面试指南+编程资源」
+# proJava |「Java学习+面试指南+编程资源」
 
-## 📖在线阅读网址👉：[www.java2top.cn](http://www.java2top.cn/)
+## 📖在线阅读网址👉：[www.projava.cn](http://www.projava.cn/)
 
-## 👁‍🗨Java2Top介绍
+## 👁‍🗨proJava介绍
 
 「Java学习+面试指南+编程资源」一份涵盖 Javacoder 从零基础到进阶大厂的全面学习与面试指南~。
 
-**本指南名曰**：[《Java2Top》](www.java2top.cn)，意为 Java To Top 希望大家都能成为 Java 界的佼佼者，毕业能进行业的 Top 企业公司。
+**本指南名曰**：[《proJava》](www.projava.cn)，意为专业 Java 希望大家都能成为 Java 界的佼佼者，毕业能进行业的 Top 企业公司。
 
 致力于打造全网最佳 Java 学习进阶平台，让你 BAT Code Road 没有信息差。
 
-- **求个Star**：如果觉得 Java2Top 的内容对你有帮助的话，还请点个免费的 Star，这是对我最大的鼓励，感谢各位一起同行，共勉！Github 地址：[https://github.com/xlcoding/Java2Top](https://github.com/xlcoding/Java2Top) 。
-
-## 👨‍💻关于作者
-
-小龙二本出身，一路自学 Java，校招斩获腾讯、美团、网易SP、ViVo提前批、讯飞多个大厂offer。作为一名后端 coder，深感一路的不易。**希望我的分享可以帮助更多的小伙伴，我踩过的坑你们不要再踩**！
-
-[<img src="https://img.shields.io/badge/WhChat-微信交流群-yellowgreen">](https://img.shields.io/badge/WhChat-微信交流群-yellowgreen)[<img src="https://img.shields.io/badge/公众号-小龙coding-brightgreen">](https://mp.weixin.qq.com/s/9HZng1BcsLHnOpPKVBt6IQ)[<img src="https://img.shields.io/badge/知乎-小龙coding-orange">](https://www.zhihu.com/people/jakelong-37)[<img src="https://img.shields.io/badge/在线-计算机经典书籍-blue">](https://mp.weixin.qq.com/s/Co4UCJfPfCsbfwUXQC24Wg)
-
 **学前须知：**
 
-* [项目介绍](../java2top/intro.md)
-* [网站规划](../java2top/todo.md)
+- [项目介绍](../projava/intro.md)
+- [网站规划](../projava/todo.md)
 
 ## 面前准备
 
@@ -49,9 +41,9 @@
 
 **源码分析**
 
-* [ArrayList 源码+扩容机制分析](docs/java/collection/arraylist-source-code.md)
-* [HashMap(JDK1.8)源码+底层数据结构分析](docs/java/collection/hashmap-source-code.md)
-* [ConcurrentHashMap 源码+底层数据结构分析](docs/java/collection/concurrent-hash-map-source-code.md)
+- [ArrayList 源码+扩容机制分析](docs/java/collection/arraylist-source-code.md)
+- [HashMap(JDK1.8)源码+底层数据结构分析](docs/java/collection/hashmap-source-code.md)
+- [ConcurrentHashMap 源码+底层数据结构分析](docs/java/collection/concurrent-hash-map-source-code.md)
 
 [源码分析（推荐👍）](./docs/guide/java/collection/java-collection-code.md)
 
@@ -149,9 +141,4 @@ MySQL-调优篇（hot🔥）
 - [《面试实录》 阿里一面，深剖Map底层结构与原理](./docs/guide/memoir/4.md)
 - [《面试实录》携程二面，JVM 底层剖析](./docs/guide/memoir/5.md)
 
-## 公众号
-
-![我的公众号](https://xiaolongcoder.oss-cn-beijing.aliyuncs.com/imgs/Java2Top/concurrent202303202215699.png)
-
-如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号。【**小龙coding**】
 
