@@ -132,17 +132,20 @@ const config = {
           {
             type: 'docSidebar',
             sidebarId: 'scene',
+            docsPluginId: 'scene',
             position: 'left',
             label: '场景',
           }, {
             type: 'docSidebar',
             sidebarId: 'resource',
             position: 'left',
+            docsPluginId: 'resource',
             label: '资源',
           }, {
             type: 'docSidebar',
             sidebarId: 'leetcode',
             position: 'left',
+            docsPluginId: 'leetcode',
             label: '算法',
           },
           {
@@ -160,7 +163,7 @@ const config = {
             items: [
               {
                 label: '文档',
-                to: '/docs-bagu/intro',
+                to: '/bagu/intro',
               },
             ],
           },
