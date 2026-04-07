@@ -13,7 +13,7 @@ const config = {
   title: 'ProJava',
   tagline: '专业 Java 学习+面试指南+编程资源',
   favicon: 'img/favicon.ico',
-
+  onBrokenLinks: 'log',
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
     v4: true, // Improve compatibility with the upcoming Docusaurus v4
@@ -30,7 +30,6 @@ const config = {
   organizationName: 'drowning-in-codes', // Usually your GitHub org/user name.
   projectName: 'ProJava', // Usually your repo name.
 
-  onBrokenLinks: 'throw',
 
   // Even if you don't use internationalization, you can use this field to set
   // useful metadata like html lang. For example, if your site is Chinese, you

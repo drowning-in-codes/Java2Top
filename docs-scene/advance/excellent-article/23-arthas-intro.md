@@ -228,7 +228,7 @@ ts=2019-11-13 15:37:38; [cost=0.012479ms] result=@ArrayList[
 ]
 ```
 
-如果需要捕捉异常的话，使用throwExp，如{params,returnObj,throwExp}
+如果需要捕捉异常的话，使用throwExp，如`{params,returnObj,throwExp}`
 
 #### 5、trace
 

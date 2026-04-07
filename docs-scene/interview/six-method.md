@@ -66,7 +66,7 @@ head:
 
 前文专门讲过，这里不再赘述
 
-[求职 | 学弟用了我的简历给我说去腾讯啦👍](www.java2top.c/guide/interview/recruit.html)
+[求职 | 学弟用了我的简历给我说去腾讯啦👍](https://mp.weixin.qq.com/s?__biz=MzkxMjE5NzUxNQ==&mid=2247483736&idx=1&sn=e8839e0bdb0b8997f4656b88aad0ce69&chksm=c111d3bcf6665aaa2448dba17acad5abc89820141eff1d6539a9f2a9b93e09e8bfe83022e5c5&token=715955624&lang=zh_CN&scene=21#wechat_redirect)
 
 ## 三、选投策略
 

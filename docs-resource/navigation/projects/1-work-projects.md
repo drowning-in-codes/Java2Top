@@ -28,7 +28,7 @@ id: navigation-projects-work-projects-1
 
 根据自己的情况结合再结合一些热点技术改造，作为面试项目也是很不错的
 
-<img src="https://xiaolongcoder.oss-cn-beijing.aliyuncs.com/imgs/Java2Top/java202304222235882.png" alt="image-20230422223519772" style="zoom:80%;" />
+<img src="https://xiaolongcoder.oss-cn-beijing.aliyuncs.com/imgs/Java2Top/java202304222235882.png" alt="image-20230422223519772" />
 
 > 项目地址：[https://github.com/codedrinker/community](https://link.zhihu.com/?target=https%3A//github.com/codedrinker/community) 
 

@@ -59,7 +59,11 @@
 ### **乐观锁**
 
 如果更新已有数据,可以进行加锁更新,也可以设计表结构时使用乐观锁,通过version来做乐观锁,这样既能保证执行效率,又能保证幂等, 乐观锁的version版本在更新业务数据要自增
+
+```sql
 update table set version = version + 1 where id = #{id} and version = #{version}
+```
+
 示例: 当有重复请求的时候,第一个请求会获取当前商品的version版本号,得到的version为1,紧接着由于第一个请求还没更新商品的version,第二个请求获取的version依然也是1, 这时候第一个请求操作更新的时候带上version并作为条件并且自增更新,这时候商品的version就会变成2,当第二个请求去操作更新的时候明显version不一致导致更新失败。
 
 ### **select + insert or update or delete**

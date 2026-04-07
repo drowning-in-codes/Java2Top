@@ -5,25 +5,25 @@ title: Java 优质开源项目精选
 
 ## 优质面试项目
 
-1、[从零实现一个操作系统内核](./work-projects.html#_1、从零实现一个操作系统内核)
+1、[从零实现一个操作系统内核](./navigation/projects/0-work-projects.md)
 
-2、[proxyee-down (Http下载器）](./work-projects.html#_2、proxyee-down-http下载器)
+2、[proxyee-down (Http下载器）](./navigation/projects/0-work-projects.md)
 
-3、[基于人工智能的智慧校园助手](./work-projects.html#_2、proxyee-down-http下载器)
+3、[基于人工智能的智慧校园助手](./navigation/projects/0-work-projects.md)
 
-4、[一个手把手教你造轮子的项目](./work-projects.html#_2、proxyee-down-http下载器)
+4、[一个手把手教你造轮子的项目](./navigation/projects/0-work-projects.md)
 
-5、[牛客论坛](./work-projects.html#_2、proxyee-down-http下载器)
+5、[牛客论坛](./navigation/projects/0-work-projects.md)
 
-6、[community(1.3k star)](./work-projects.html#_2、proxyee-down-http下载器)
+6、[community(1.3k star)](./navigation/projects/1-work-projects.md)
 
-7、[favorites-web (4.2k star)](./work-projects.html#_2、proxyee-down-http下载器)
+7、[favorites-web (4.2k star)](./navigation/projects/1-work-projects.md)
 
-8、 [SpringBoot-Shiro-Vue(4.2k)](./work-projects.html#_2、proxyee-down-http下载器)
+8、 [SpringBoot-Shiro-Vue(4.2k)](./navigation/projects/1-work-projects.md)
 
-9、[Java2Top（推荐）](./work-projects.html#_2、proxyee-down-http下载器)
+9、[Java2Top（推荐）](./navigation/projects/1-work-projects.md)
 
-10、[SnowJena](./work-projects.html#_2、proxyee-down-http下载器)
+10、[SnowJena](./navigation/projects/1-work-projects.md)
 
 ## 优质开源学习
 

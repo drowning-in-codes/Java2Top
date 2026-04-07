@@ -4,7 +4,7 @@ title: proJava（大厂学习导航）
 
 「`Java学习+校招面试求职+大厂学习导航`」一份涵盖 Javacoder 从零基础到进阶大厂的**全面学习**与面试指南~。
 
-**本指南名曰**：[《proJava》](www.projava.cn)，意为专业 Java 希望大家都能成为 Java 界的佼佼者，毕业能进行业的 Top 企业公司。
+**本指南名曰**：[《proJava》](https://www.projava.cn)，意为专业 Java 希望大家都能成为 Java 界的佼佼者，毕业能进行业的 Top 企业公司。
 
 > 致力于打造全网最佳 Java 学习进阶平台，让你 BAT Code Road 没有信息差。
 >
