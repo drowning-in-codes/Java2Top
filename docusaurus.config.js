@@ -129,7 +129,22 @@ const config = {
             position: 'left',
             label: '八股',
           },
-
+          {
+            type: 'docSidebar',
+            sidebarId: 'scene',
+            position: 'left',
+            label: '场景',
+          }, {
+            type: 'docSidebar',
+            sidebarId: 'resource',
+            position: 'left',
+            label: '资源',
+          }, {
+            type: 'docSidebar',
+            sidebarId: 'leetcode',
+            position: 'left',
+            label: '算法',
+          },
           {
             href: 'https://github.com/drowning-in-codes',
             label: 'GitHub',
